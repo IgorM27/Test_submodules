@@ -1,0 +1,3 @@
+[submodule "not_submodule"]
+	path = not_submodule
+	url = https://github.com/ISKorobov/not_submodule
